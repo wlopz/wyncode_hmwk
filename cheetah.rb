@@ -27,4 +27,4 @@ auditions.each do |auditioner|
 
 end
 
-puts panel
+puts panelHELLO
